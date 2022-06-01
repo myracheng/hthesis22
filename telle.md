@@ -1,0 +1,24 @@
+# telle whitney
+http://ethw.org/Oral-History:Telle_Whitney#Graduate_School_at_Caltech
+e. These are some of the smartest people on earth at this place. Carver had lots of money—he was very well-funded—so I’d go to conferences in Europe and he’d be able to pay for that. I’d have a paper submitted, so I’d go over there and present these papers; but I’d never been to Europe, and I got to go there. There was a very interesting community going on, and the chips were really just happening, so hanging out with Carver, I met [everyone]. John Doerr was around—I mean, I’ve worked at Silicon Compilers, and was the President of that company; and Jim Clark was just presenting his first chip, the graphics chip that went off and became Silicon Graphics. It was a very heady time; it was exciting; and I loved all of that! It was really interesting.
+
+
+
+Silicon Valley was up here, and I worked in [the chip area]. I wanted to live near San Francisco; I liked the whole chip industry; but I also thought that in the work world, I would get to know some interesting women. And in fact, the way that I met Anita [Borg] was: the first year that I was here, I was working in a research lab. The wife of my boss had a Stanford Ph.D. in Computer Science, and she had introduced me to a few people at Stanford. I had gone up there to a panel, and I had met Barbara Simons there—that was my first connection—and we had had dinner with a big group of people after that panel. I subsequently went to my boss’s house for a Halloween party, and Barbara Simons was there with Anita. I had had a little bit too much to drink—or at least enough to drink so that I had gotten my nerve up—and I approached Barbara and Anita, and I said “Hi, we’re going to be friends!” [laughs.] And we were! At that point, there was a number of women Ph.D.s, and we got together once a month for dinner, and I got to know both Anita and Barbara better. Anita and I over time became much closer friends than Barbara and I, although I know Barbara well and really enjoy her; but Anita and I have just got to know each other a lot better.
+
+
+# other women:
+There was a magazine: there’s the academic side of women and there’s the more industry side, and a few years ago there was an article on the fifty best women or something; top-notch entrepreneurs. Fortune, I think it was. Anyway, Lynette Dyer was one of them, and she was an entrepreneur in Silicon Valley. She’s now in New York, I think. I haven’t talked to her recently. Marion Mayer, who went on to do MEMS [Micro-Electro-Mechanical Systems] work. I think she’s at a small start-up doing some sort of MEMS work, which is these little micromachines. Really cool! But there weren’t very many around, and most women I knew would get themselves attached to a man, and that helped, because if you were a single woman: God forbid! I don’t think I had ever realized, up till that time, how much I counted on my female friends—a network. For me, when I discovered computer science, it was exciting, and it was enriching, and it was intellectually stimulating; I didn’t really consider the fact that I was the only woman sitting in this room. It just was somewhat irrelevant.
+
+Abbate:
+
+So there weren’t a lot of women at Utah, either, in terms of computer science and engineering?
+
+Whitney:
+
+No. The COBOL teacher was a woman, so there were a few women around; but there weren’t very many women. Years later when I went to work, I ran into a guy who had been on the faculty there, and he had noticed me. I mean, everywhere you went, people knew who you were! [laughs.] You were just noticed! At Cal Tech there was something called the Silicon Structures Project: we had these ten or twelve companies, and they’d send these people to come out twice a year to all of us little graduate students, and we had to get up and present our work. So there were all these people in industry, and without exception, they noticed me! I mean, I was the oddity in this group; in the Silicon Structures I probably was the only woman. But, being 22—I was 22 to 29 while I was at Cal—I just assumed that I would be judged on my work. [laughs.]
+
+============================
+https://ethw.org/Oral-History:Telle_Whitney 
+### didnt want to help with anita borg
+It’s an interesting balance, because I spent all this time doing a lot of soul-searching about what’s really important to me, and where my passion is developing technology: I like building things. The Institute really is more about developing a new way of thinking about technology, as opposed to developing technology; so there may be a marriage there, but right now, in an ideal world, this would be something that I would help with [temporarily]. I mean, it’s something I believe in, but I didn’t intend to do it full-time. And yet, here I am
